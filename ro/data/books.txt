@@ -1,0 +1,3 @@
+2,Moara_cu_noroc,Ioan_slavici,roman
+3,Testament,Tudor_Arghezi,medernism
+4,Enigma_Otiliei,G_Calinesu,roman
