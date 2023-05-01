@@ -1,2 +1,2 @@
 # Aluas-AP-Biblioteca
-337
+Proiect elaborat in primul semestru la disciplina "Algortimi si programare" pe parcursul laboratoarelor din sapatamanile 7-12
